@@ -34,7 +34,7 @@ git clone https://github.com/NugrohoESBB/Setup_OmniWheels.git
 <p>4. cari folder OmniWheels : </p>
 
 ``` bash
-cd /OmniWheels
+cd /Setup_OmniWheels
 ```
 
 <p>5. Jalankan perintah berikut :</p>
