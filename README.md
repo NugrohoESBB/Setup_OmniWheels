@@ -3,7 +3,7 @@
 
 <h2 align="center" id="title">OmniWheels Documentation</h2>
 
-<p align="center"><img src="https://github.com/fauziallagan/OmniWheels/blob/master/Omniwheel%20Schematic.jpeg" alt="project-image"></p>
+<p align="center"><img src="https://github.com/NugrohoESBB/Setup_OmniWheels/blob/main/Omniwheel%20Schematic.jpeg" alt="project-image"></p>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Sebuah+Robot+roda+3+yang+dapat+;dikendalikan+melalui+web+browser+;dan+dibekali+kecerdasan+buatan+;yang+mampu+mendeteksi+manusia+;menggunakan+kamera." alt="Typing SVG" /></a></p>
   
