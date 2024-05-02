@@ -29,7 +29,7 @@ sudo apt-get upgrade
 <p>3. Clone Project OmniWheels : </p>
 
 ``` bash
-git clone https://github.com/multimedia-dan-robotika/OmniWheels.git
+git clone https://github.com/NugrohoESBB/Setup_OmniWheels.git
 ```
 <p>4. cari folder OmniWheels : </p>
 
